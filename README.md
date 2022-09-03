@@ -16,6 +16,9 @@ You may also see any lint errors in the console.
 
 The project is using MUI Component
 
-Here are some screenshots of the project
+## Screenshots of the project
+#### Index page
 ![Screenshot index page](https://github.com/wildanhkm/sunartha-freelance-test/blob/master/src/screenshots/Index.png)
+
+### Detail page
 ![Screenshot detail page](https://github.com/wildanhkm/sunartha-freelance-test/blob/master/src/screenshots/Detail.png)
